@@ -10,7 +10,9 @@ namespace BT_ngày_đầu_Môn_LTHDT
     {
         static void Main(string[] args)
         {
+            Console.Write("-------");
 
+            Console.ReadKey();
         }
     }
 }
